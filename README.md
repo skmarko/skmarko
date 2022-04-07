@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skmarko
+- 👋 Hi, I’m @sheetal_kumar_marko
 - 👀 I’m interested in ...angular , React js , Javascript , HTML
 - 🌱 I’m currently learning ...React JS
 - 💞️ I’m looking to collaborate on ...React and Angular Project
